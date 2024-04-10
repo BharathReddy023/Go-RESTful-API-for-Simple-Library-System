@@ -9,12 +9,12 @@ This project implements a simple RESTful API for managing a library system using
 
 ### Installation
 1. Clone this repository to your local machine:
-git clone https://github.com/your_username/go_restfulAPI.git
+git clone git@github.com:BharathReddy023/Go-RESTful-API-for-Simple-Library-System.git
 
 2. Navigate to the project directory:
-cd go_restfulAPI
+cd Go-RESTful-API-for-Simple-Library-System/go_restfulAPI
 3. Initialize the Go module:
-    go mod init github.com/your_username/go_restfulAPI
+    go mod init git@github.com:BharathReddy023/Go-RESTful-API-for-Simple-Library-System.git
 
 
 ## Creating the API
