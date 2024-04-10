@@ -107,3 +107,11 @@ curl -X DELETE http://localhost:8080/books/1
 4. Click on "Import" to add the collection to your Postman workspace.
 
 Now you can use the exported Postman collection to test your API endpoints easily.
+
+### Learnings:
+Go Fundamentals: Mastered basics like syntax, data types, and control structures.
+REST Principles: Understood URL design, HTTP methods, and status codes.
+CRUD Operations: Implemented Create, Read, Update, Delete operations efficiently.
+Error Handling: Learned to manage errors effectively for a robust API.
+Documentation: Created comprehensive documentation for clear usage.
+Testing: Provided Postman collection for easy API testing.
